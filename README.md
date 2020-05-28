@@ -1,1 +1,1 @@
-# Horiseon-Refractor
+This is my first attempt at refractoring a code.  It was somewhat difficult, but I enjoyed it.  There is a small square in front of the header "Horiseon".  I tried again and again, but I could not remove it.  I created this webpage using a 14" laptop.  I checked it on a 12" laptop screen just before turning it in.  The navigation links fit perfectly on the 14" screen, but not on the 12" screen.  I will figure the problem out in time.
